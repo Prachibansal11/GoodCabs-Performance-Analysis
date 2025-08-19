@@ -66,3 +66,19 @@ The insights revealed which cities are performing well and which require attenti
 
 Ultimately, this analysis not only supports GoodCabs in making smarter business decisions but also shows how leveraging data analytics can drive sustainable growth and competitive advantage in the cab service industry.
 
+---
+## 📊 Live Dashboard | ![Power BI Logo](https://img.icons8.com/color/24/power-bi.png)
+
+👉 **Explore the interactive Power BI dashboard here**:
+
+🔗 [GoodCabs Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTA0YjA2OGQtMzA4ZS00ZmFmLThjNDMtM2JiMzFjNzgzNzI4IiwidCI6ImZhNDQ2MjdjLTdiMmMtNDQxMi1iOTUyLWFiYTU5M2M4ODJkNiJ9)
+
+This dashboard provides:
+
+- 📍 City-wise ride volumes  
+- 🔁 Repeat customer trends  
+- 📆 Seasonal and weekday/weekend demand patterns  
+- 💰 Revenue insights and fare distribution  
+- 📌 Key performance indicators in a dynamic, visual format
+
+
