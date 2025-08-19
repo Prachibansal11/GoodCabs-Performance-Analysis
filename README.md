@@ -3,6 +3,17 @@
 Welcome to the **GoodCabs Performance Analysis** repository! This project presents an in-depth analysis of taxi rides operated by GoodCabs, a ride-hailing service active in tier-2 cities across India. The goal is to analyze large-scale trip data, uncover trends, identify areas for improvement, and provide actionable insights to help the company grow sustainably.
 
 ---
+## 📊 Live Dashboard | ![Power BI Logo](https://img.icons8.com/color/24/power-bi.png)
+
+[![View Dashboard](https://your-image-url.com/dashboard-thumbnail.png)](https://app.powerbi.com/view?r=eyJrIjoiNTA0YjA2OGQtMzA4ZS00ZmFmLThjNDMtM2JiMzFjNzgzNzI4IiwidCI6ImZhNDQ2MjdjLTdiMmMtNDQxMi1iOTUyLWFiYTU5M2M4ODJkNiJ9)
+
+> 📌 **Click the image above** to open the live interactive dashboard in Power BI.
+
+This lets viewers:
+- Explore city-wise ride trends 🚖  
+- View repeat user stats 🔁  
+- See seasonal & revenue patterns 📆💰
+
 
 ## 📊 Project Overview
 
