@@ -1,5 +1,7 @@
 # 🚖 GoodCabs Performance Analysis 🚖
 
+![Banner](https://raw.githubusercontent.com/Prachibansal11/GoodCabs-Performance-Analysis/1ee02f1f79c894d89e26e0688b23b2dcd6e13b09/goodcabs%20image.png)
+
 Welcome to the **GoodCabs Performance Analysis** repository! This project presents an in-depth analysis of taxi rides operated by GoodCabs, a ride-hailing service active in tier-2 cities across India. The goal is to analyze large-scale trip data, uncover trends, identify areas for improvement, and provide actionable insights to help the company grow sustainably.
 
 ---
